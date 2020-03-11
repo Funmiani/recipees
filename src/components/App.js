@@ -5,9 +5,7 @@ import '../styles/index.css';
 
 
 class App extends Component {
-    render(){
-        console.log('this.props', this.props);
-        
+    render(){        
         return(
             <div>
                 <h2>Recipe Finder</h2>
